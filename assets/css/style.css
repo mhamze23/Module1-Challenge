@@ -86,8 +86,6 @@ header nav ul li {
 aside {
 	margin-right: 20px;
 	padding: 20px;
-	clear: both;
-	float: right ;
 	width: 20%;
 	height: 100%;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -102,7 +100,6 @@ aside article h3 {
 	text-align: center;
 }
 aside article img {
-	display: block;
 	margin: 10px auto;
 	max-width: 150px;
 }
